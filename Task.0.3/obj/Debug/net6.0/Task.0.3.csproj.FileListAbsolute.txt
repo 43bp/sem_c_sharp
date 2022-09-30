@@ -1,0 +1,15 @@
+C:\Users\alexu\Desktop\git_edu\SemC#\Task.0.3\bin\Debug\net6.0\Task.0.3.exe
+C:\Users\alexu\Desktop\git_edu\SemC#\Task.0.3\bin\Debug\net6.0\Task.0.3.deps.json
+C:\Users\alexu\Desktop\git_edu\SemC#\Task.0.3\bin\Debug\net6.0\Task.0.3.runtimeconfig.json
+C:\Users\alexu\Desktop\git_edu\SemC#\Task.0.3\bin\Debug\net6.0\Task.0.3.dll
+C:\Users\alexu\Desktop\git_edu\SemC#\Task.0.3\bin\Debug\net6.0\Task.0.3.pdb
+C:\Users\alexu\Desktop\git_edu\SemC#\Task.0.3\obj\Debug\net6.0\Task.0.3.csproj.AssemblyReference.cache
+C:\Users\alexu\Desktop\git_edu\SemC#\Task.0.3\obj\Debug\net6.0\Task.0.3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexu\Desktop\git_edu\SemC#\Task.0.3\obj\Debug\net6.0\Task.0.3.AssemblyInfoInputs.cache
+C:\Users\alexu\Desktop\git_edu\SemC#\Task.0.3\obj\Debug\net6.0\Task.0.3.AssemblyInfo.cs
+C:\Users\alexu\Desktop\git_edu\SemC#\Task.0.3\obj\Debug\net6.0\Task.0.3.csproj.CoreCompileInputs.cache
+C:\Users\alexu\Desktop\git_edu\SemC#\Task.0.3\obj\Debug\net6.0\Task.0.3.dll
+C:\Users\alexu\Desktop\git_edu\SemC#\Task.0.3\obj\Debug\net6.0\refint\Task.0.3.dll
+C:\Users\alexu\Desktop\git_edu\SemC#\Task.0.3\obj\Debug\net6.0\Task.0.3.pdb
+C:\Users\alexu\Desktop\git_edu\SemC#\Task.0.3\obj\Debug\net6.0\Task.0.3.genruntimeconfig.cache
+C:\Users\alexu\Desktop\git_edu\SemC#\Task.0.3\obj\Debug\net6.0\ref\Task.0.3.dll
